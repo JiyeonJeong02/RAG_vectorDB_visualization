@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\coding\\tensorflow/mnist-tensorboard/log-3\\images.ckpt"
+all_model_checkpoint_paths: "C:\\coding\\tensorflow/mnist-tensorboard/log-3\\images.ckpt"
